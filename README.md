@@ -10,7 +10,7 @@
 
 - 🙋‍♂️ My full name is **Vũ Trường Giang**
 
-- 👨‍💻 I'm currently study at **FPT University - HCM **
+- 👨‍💻 I'm currently study at **FPT University - HCM**
 
 - 👨‍💻 All of my projects are available at [github.com/giang-cat-luong](github.com/giang-cat-luong)
 
@@ -18,8 +18,7 @@
 
 - 📄 Know about my experiences [CV](https://github.com/giang-cat-luong/CV)
 
-- ⚡ Fun fact **Play gym in my dream :v**
-
+- 
 
 
 ## 🚀 Languages and Tools:
