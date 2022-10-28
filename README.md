@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [github.com/giang-cat-luong]([github.com/giang-cat-luong?tab=repositories](https://github.com/giang-cat-luong?tab=repositories)](https://github.com/giang-cat-luong?tab=repositories))
+- 👨‍💻 All of my projects are available at [[github.com/giang-cat-luong](https://github.com/giang-cat-luong?tab=repositories)]
 
 - 📄 Know about my experiences [CV](CV)
 
