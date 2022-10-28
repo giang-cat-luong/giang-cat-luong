@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Truong Giang</h1>
-<h3 align="center">Chilling with music. Chilling with code</h3>
+<h3 align="center">Feeling with music - Chilling with coding</h3>
 
 <img align="right" alt="chilling" width="400" src="https://s3.amazonaws.com/media.thecrimson.com/photos/2021/04/28/003206_1350233.gif">
 
