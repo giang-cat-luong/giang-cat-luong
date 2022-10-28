@@ -31,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giang-cat-luong&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
+<div align="center" dir="auto">
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=giang-cat-luong&show_icons=true&theme=dracula"
