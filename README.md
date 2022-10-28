@@ -49,6 +49,8 @@
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=giang-cat-luong&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=giang-cat-luong&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)  
 
 </div>
 
@@ -67,7 +69,7 @@
 <br />
 
 <div align="center">
-
+  
 ### Copyright &#169; 2022 Trường Giang
 
  </div>
