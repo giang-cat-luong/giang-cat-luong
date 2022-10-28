@@ -33,6 +33,8 @@
 
 
 
+<h3 align="left">Some my stats</h3>
+
 <div align="center">
 <picture>
 <source 
