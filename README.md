@@ -28,13 +28,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giang-cat-luong&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support me:</h3>
 <p><a href="https://ko-fi.com/giangcatluong"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="giangcatluong" /></a></p><br><br>
 
 
 
-<h3 align="left">Some my stats</h3>
-
+<h3 align="left">Some my stats:</h3>
+  
+  
 <div align="center">
 <picture>
 <source 
