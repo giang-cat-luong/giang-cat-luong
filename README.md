@@ -29,9 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/giangcatluong"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="giangcatluong" /></a></p><br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=giang-cat-luong&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giang-cat-luong&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=giang-cat-luong&show_icons=true&theme=dracula"
@@ -43,6 +40,11 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=giang-cat-luong&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giang-cat-luong&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
