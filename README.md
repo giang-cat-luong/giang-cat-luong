@@ -36,7 +36,7 @@
 <p><a href="https://ko-fi.com/giangcatluong"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="giangcatluong" /></a></p><br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=giang-cat-luong&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-<div>
+<div align="center" height="50" width="210">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giang-cat-luong&show_icons=true&locale=en&layout=dracula" alt="giang-cat-luong" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giang-cat-luong&show_icons=true&locale=en" alt="giang-cat-luong" /></p>
 </div>
