@@ -34,7 +34,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/giangcatluong"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="giangcatluong" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giang-cat-luong&show_icons=true&locale=en&layout=compact" alt="giang-cat-luong" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giang-cat-luong&show_icons=true&locale=en&layout=dracular" alt="giang-cat-luong" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giang-cat-luong&show_icons=true&locale=en" alt="giang-cat-luong" /></p>
 
