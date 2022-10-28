@@ -12,13 +12,13 @@
 
 - 👨‍💻 I'm currently study at **FPT University - HCM**
 
-- 👨‍💻 All of my projects are available at [github.com/giang-cat-luong](github.com/giang-cat-luong)
+- 👨‍💻 My major is **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [github.com/giang-cat-luong](https://github.com/giang-cat-luong?tab=repositories)
 
 - 📄 Know about my experiences [CV](https://github.com/giang-cat-luong/CV)
 
-- 
+- 🏂 My hobby is **Music, Film, Play games, Coding and Travelling**
 
 
 ## 🚀 Languages and Tools:
