@@ -45,3 +45,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giang-cat-luong" alt="giang-cat-luong" /></a> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=giang-cat-luong&theme=github-green-purple&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
