@@ -18,9 +18,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/giang-cat-luong](github.com/giang-cat-luong)
 
-- 📄 Know about my experiences [CV](CV)
-
-- ⚡ Fun fact **Play games and play Gym :v**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
