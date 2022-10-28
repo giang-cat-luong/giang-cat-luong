@@ -8,17 +8,17 @@
 
 <img align="right" alt="chilling" width="400" src="https://s3.amazonaws.com/media.thecrimson.com/photos/2021/04/28/003206_1350233.gif">
 
-- 🙋‍♂️ My full name is **Vũ Trường Giang**
+- 💳 My full name is **Vũ Trường Giang**
 
-- 👨‍💻 I'm currently study at **FPT University - HCM**
+- 🏬 I'm currently study at **FPT University - HCM**
 
-- 👨‍💻 My major is **Software Engineering**
+- 📚 My major is **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [github.com/giang-cat-luong](https://github.com/giang-cat-luong?tab=repositories)
+- 📂 All of my projects are available at [github.com/giang-cat-luong](https://github.com/giang-cat-luong?tab=repositories)
 
 - 📄 Know about my experiences [CV](https://github.com/giang-cat-luong/CV)
 
-- 🏂 My hobby is **🎧 Music 🎥 Film 🎮 Play games 💻 Coding and 🚗 Travelling**
+- 🏂 My hobby is **🎧 Music 🎥 Film 🎮 Games 💻 Coding 🚗 Travelling**
 
 
 ## 🚀 Languages and Tools:
