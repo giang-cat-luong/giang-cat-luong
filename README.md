@@ -31,7 +31,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=giang-cat-luong&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-<p><img align="center" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=giang-cat-luong&show_icons=true&locale=en&layout=dracula" alt="giang-cat-luong" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
