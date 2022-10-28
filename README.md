@@ -31,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giang-cat-luong&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=giang-cat-luong&show_icons=true&theme=dracula"
@@ -45,7 +45,7 @@
 </picture>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=giang-cat-luong&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
+</div>
 
 
 
