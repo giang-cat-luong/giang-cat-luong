@@ -27,7 +27,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giang-cat-luong&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## ⚡Support me
+## ⚡Support me:
 <p><a href="https://ko-fi.com/giangcatluong"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="giangcatluong" /></a></p><br><br>
 
 
@@ -54,7 +54,7 @@
 
 
 
-## 🤝 Connect with me:
+## 🤝 Connect me via:
 <p align="left">
 <a href="https://linkedin.com/in/giang-cat-luong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giang-cat-luong" height="30" width="40" /></a>
 <a href="https://fb.com/truonggiang0405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="truonggiang0405" height="30" width="40" /></a>
@@ -65,3 +65,4 @@
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
+#### Copyright &#169; 2022 Trường Giang
