@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [CV](https://github.com/giang-cat-luong/CV)
 
-- 🏂 My hobby is **Music, Film, Play games, Coding and Travelling**
+- 🏂 My hobby is **🎧 Music 🎥 Film 🎮 Play games 💻 Coding and 🚗 Travelling**
 
 
 ## 🚀 Languages and Tools:
