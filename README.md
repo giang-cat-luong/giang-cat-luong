@@ -37,8 +37,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=giang-cat-luong&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 <div>
-<p><img align="center" height="50" width="210" src="https://github-readme-stats.vercel.app/api/top-langs?username=giang-cat-luong&show_icons=true&locale=en&layout=dracula" alt="giang-cat-luong" /></p>
-<p>&nbsp;<img align="center" height="50" width="210" src="https://github-readme-stats.vercel.app/api?username=giang-cat-luong&show_icons=true&locale=en" alt="giang-cat-luong" /></p>
+<p><img align="center" height="300" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=giang-cat-luong&show_icons=true&locale=en&layout=dracula" alt="giang-cat-luong" /></p>
+<p>&nbsp;<img align="center" height="300" width="500" src="https://github-readme-stats.vercel.app/api?username=giang-cat-luong&show_icons=true&locale=en" alt="giang-cat-luong" /></p>
 </div>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
