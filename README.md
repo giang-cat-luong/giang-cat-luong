@@ -3,10 +3,6 @@
 
 <img align="right" alt="chilling" width="400" src="https://s3.amazonaws.com/media.thecrimson.com/photos/2021/04/28/003206_1350233.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giang-cat-luong&label=Profile%20views&color=0e75b6&style=flat" alt="giang-cat-luong" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giang-cat-luong" alt="giang-cat-luong" /></a> </p>
-
 
 - 🌱 I’m currently learning **JavaScript, React**
 
@@ -34,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giang-cat-luong&show_icons=true&locale=en" alt="giang-cat-luong" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giang-cat-luong&" alt="giang-cat-luong" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giang-cat-luong&label=Profile%20views&color=0e75b6&style=flat" alt="giang-cat-luong" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giang-cat-luong" alt="giang-cat-luong" /></a> </p>
