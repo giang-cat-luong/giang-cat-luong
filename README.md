@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giang-cat-luong&label=Profile%20views&color=0e75b6&style=flat" alt="giang-cat-luong" /> </p>
 <h1 align="center" color="red">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Truong Giang</h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F7E9EB&background=FF200100&multiline=true&width=470&lines=Feeling+with+music+-+Chilling+with+coding" alt="Typing SVG" /></a>
@@ -40,7 +41,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giang-cat-luong&" alt="giang-cat-luong" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giang-cat-luong&label=Profile%20views&color=0e75b6&style=flat" alt="giang-cat-luong" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giang-cat-luong" alt="giang-cat-luong" /></a> </p>
 
