@@ -1,6 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Truong Giang</h1>
-<h3 align="center">Feeling with music - Chilling with coding</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F7E9EB&background=FF200100&multiline=true&width=470&lines=Feeling+with+music+-+Chilling+with+coding)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F7E9EB&background=FF200100&multiline=true&width=470&lines=Feeling+with+music+-+Chilling+with+coding" alt="Typing SVG" /></a>
+</p>
 
 <img align="right" alt="chilling" width="400" src="https://s3.amazonaws.com/media.thecrimson.com/photos/2021/04/28/003206_1350233.gif">
 
