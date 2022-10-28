@@ -59,7 +59,7 @@
 <a href="https://linkedin.com/in/giang-cat-luong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giang-cat-luong" height="30" width="40" /></a>
 <a href="https://fb.com/truonggiang0405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="truonggiang0405" height="30" width="40" /></a>
 <a href="https://instagram.com/truonggiang.0405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="truonggiang.0405" height="30" width="40" /></a>
- <a href="[https://instagram.com/truonggiang.0405](https://github.com/giang-cat-luong)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="truonggiang.0405" height="30" width="40" /></a>
+ <a href="https://github.com/giang-cat-luong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="truonggiang.0405" height="30" width="40" /></a>
 </p>
 
 
