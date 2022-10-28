@@ -43,9 +43,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-<div height="300" width="200">
 [![GitHub Streak](https://streak-stats.demolab.com?user=giang-cat-luong&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-</div>
+
 
 
 
