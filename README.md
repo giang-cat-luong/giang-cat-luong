@@ -16,7 +16,7 @@
 
 - 📂 All of my projects are available at [github.com/giang-cat-luong](https://github.com/giang-cat-luong?tab=repositories)
 
-- 📄 Know about my experiences [CV](https://github.com/giang-cat-luong/CV)
+- 📄 Know about my social media  [Facebook](https://www.facebook.com/truonggiang0405) [Instagram](https://www.instagram.com/truonggiang.0405)
 
 - 🏂 My hobby is **🎧 Music 🎥 Film 🎮 Games 💻 Coding 🚗 Travelling**
 
