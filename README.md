@@ -10,9 +10,9 @@
 
 - 💳 My full name is **Vũ Trường Giang**
 
-- 🏬 I'm currently study at **FPT University - HCM**
+- 🏬 I'm currently work at **FPT Software - Ha Noi**
 
-- 📚 My major is **Software Engineering**
+- 📚 My major is **Front-end Developer**
 
 - 📂 All of my projects are available at [github.com/giang-cat-luong](https://github.com/giang-cat-luong?tab=repositories)
 
