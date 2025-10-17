@@ -85,6 +85,6 @@
 
 <div align="center">
   
-### Copyright &#169; 2022 Trường Giang
+### Copyright &#169; 2025 Trường Giang
 
  </div>
