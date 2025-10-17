@@ -65,7 +65,7 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=giang-cat-luong&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=giang.cat.luong)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=Giang%20Cát%20Lượng&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
 
