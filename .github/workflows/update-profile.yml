@@ -1,0 +1,47 @@
+name: Update GitHub Profile
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true"
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit generated SVG files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github-stats.svg assets/top-langs.svg
+
+          git diff --cached --quiet || git commit -m "chore: update GitHub stats"
+
+          git push

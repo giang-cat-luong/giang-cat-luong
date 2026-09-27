@@ -1,267 +1,208 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Truong Giang</h1>
 
-# 👋 Hi, I'm **Truong Giang**
+<h3 align="center">
+  Front-end Developer · Full-stack Developer · Open Source Enthusiast
+</h3>
 
-### 💻 Front-end Developer · 🎧 Music Lover · 🚗 Traveler
+<p align="center">
+  <a href="https://truonggiang.life">
+    <img src="https://img.shields.io/badge/Portfolio-truonggiang.life-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/giang-cat-luong">
+    <img src="https://img.shields.io/badge/GitHub-giang--cat--luong-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Truong%20Giang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-<a href="http://truonggiang.life/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-truonggiang.life-0e75b6?style=for-the-badge" alt="Portfolio" />
-</a>
-<a href="https://github.com/giang-cat-luong" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-giang--cat--luong-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/giang-cat-luong" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Truong%20Giang-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Front-end+Developer;Full-stack+Developer;Next.js+%7C+React+%7C+TypeScript;Building+modern+web+experiences"
+    alt="Typing SVG"
+  />
+</p>
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F7E9EB&background=FF200100&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Feeling+with+music+%E2%80%93+Chilling+with+coding;Building+modern+and+user-friendly+web+experiences" alt="Typing SVG" />
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=giang-cat-luong&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-&nbsp;
-<a href="https://github.com/giang-cat-luong?tab=followers">
-  <img src="https://img.shields.io/github/followers/giang-cat-luong?label=Followers&style=social" alt="GitHub followers" />
-</a>
-
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-<img align="right" alt="Coding" width="380" src="https://s3.amazonaws.com/media.thecrimson.com/photos/2021/04/28/003206_1350233.gif">
-
-* 👨‍💻 My full name is **Vũ Trường Giang**
-* 🏢 Currently working at **FPT Software - Hanoi**
-* 💻 I'm a **Front-end Developer**
-* 🌐 Check out my **[Portfolio](http://truonggiang.life/)**
-* 📂 Explore my **[GitHub Repositories](https://github.com/giang-cat-luong?tab=repositories)**
-* 🎯 Interested in building modern, scalable and user-friendly web applications
-* 🎧 Hobbies: **Music · Film · Games · Coding · Travelling**
-
-<br clear="right"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=giang-cat-luong&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/giang-cat-luong?label=Followers&style=flat" alt="GitHub Followers" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
+
+- 👋 Hi, I'm **Truong Giang**
+- 💻 I'm a **Front-end Developer**
+- 🚀 I enjoy building modern and scalable web applications
+- ⚛️ My main ecosystem is **React / Next.js / TypeScript**
+- 🧩 I also work with backend technologies and databases
+- ☁️ Interested in cloud, DevOps and modern development workflows
+- 🎨 I care about clean UI, reusable components and developer experience
+- 🌐 Portfolio: **[truonggiang.life](https://truonggiang.life/)**
+- 📂 GitHub: **[github.com/giang-cat-luong](https://github.com/giang-cat-luong)**
+
+---
+
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="45" height="45"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
-  </a>
-  <a href="https://materializecss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="45" height="45"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Materialize-EE6E73?style=for-the-badge&logo=materialize&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
 
 ### ⚙️ Backend & Database
 
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="45" height="45"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ Cloud / DevOps / Tools
 
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  </a>
-  <a href="https://webpack.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="45" height="45"/>
-  </a>
-  <a href="https://jestjs.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
-### 📱 Mobile & Other Technologies
+### 📱 Mobile / Other
 
-<p align="left">
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="45" height="45"/>
-  </a>
-  <a href="https://developer.android.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="45" height="45"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 ### 🎨 Design
 
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
 ---
 
 ## 🌐 Portfolio
 
-<div align="center">
-
-<a href="http://truonggiang.life/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-truonggiang.life-0e75b6?style=for-the-badge&labelColor=181717" alt="Visit Portfolio" />
-</a>
-
-<br />
-<br />
-
-**Explore my work, projects, experience and more on my personal website.**
-
-</div>
+<p align="center">
+  <a href="https://truonggiang.life/">
+    <img
+      src="https://img.shields.io/badge/Visit%20My%20Portfolio-truonggiang.life-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="./assets/github-stats.svg"
+    alt="GitHub Stats"
+  />
+</p>
 
-<a href="https://github.com/giang-cat-luong">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giang-cat-luong&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Giang's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giang-cat-luong&layout=compact&langs_count=10&theme=dracula" alt="Giang's Top Languages" />
-</a>
+<p align="center">
+  <img
+    src="./assets/top-langs.svg"
+    alt="Top Languages"
+  />
+</p>
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=giang-cat-luong&theme=dracula&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=giang-cat-luong&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=giang-cat-luong&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
-## 📈 GitHub Activity
+## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <img
+    src="./assets/github-trophy.svg"
+    alt="GitHub Trophies"
+  />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giang-cat-luong&custom_title=Truong%20Giang%27s%20GitHub%20Activity&hide_border=true&theme=react-dark&area=true" alt="Giang's GitHub Activity Graph" />
+---
 
-</div>
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="./assets/activity-graph.svg"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://truonggiang.life/">
+    <img src="https://img.shields.io/badge/Website-truonggiang.life-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 
-<a href="http://truonggiang.life/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/giang-cat-luong" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/giang-cat-luong" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://facebook.com/truonggiang0405" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://instagram.com/truonggiang.0405" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+  <a href="https://github.com/giang-cat-luong">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-</div>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## ☕ Support Me
 
-<div align="center">
-
-<a href="https://ko-fi.com/giangcatluong" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://ko-fi.com/">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.svg"
+    alt="Coding"
+  />
+</p>
 
-<img height="120" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting me" />
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+</p>
 
-### Thanks for visiting my profile! 👋
-
-**Feel free to explore my repositories and connect with me.**
-
-<br />
-
-### © 2026 Trường Giang
-
-</div>
+<p align="center">
+  © 2026 Truong Giang. All rights reserved.
+</p>
