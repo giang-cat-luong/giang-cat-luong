@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Truong Giang</h1>
 
-<h3 align="center">
-  Front-end Developer · Full-stack Developer · Open Source Enthusiast
-</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F7E9EB&background=FF200100&multiline=true&width=470&lines=Feeling+with+music+-+Chilling+with+coding"
+      alt="Feeling with music - Chilling with coding"
+    />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://truonggiang.life">
