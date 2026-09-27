@@ -10,13 +10,16 @@ permissions:
   contents: write
 
 jobs:
-  update-stats:
+  update-profile:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
 
+      # ==========================================
+      # GitHub Stats
+      # ==========================================
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -26,6 +29,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      # ==========================================
+      # Top Languages
+      # ==========================================
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -35,13 +41,37 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      # ==========================================
+      # GitHub Trophy
+      # ==========================================
+      - name: Generate GitHub Trophy
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&no-bg=true&column=6"
+          path: assets/github-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ==========================================
+      # Activity Graph
+      # ==========================================
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: "theme=tokyo-night&hide_border=true"
+          output_path: assets/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ==========================================
+      # Commit generated SVG files
+      # ==========================================
       - name: Commit generated SVG files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/github-stats.svg assets/top-langs.svg
+          git add assets/*.svg
 
-          git diff --cached --quiet || git commit -m "chore: update GitHub stats"
+          git diff --cached --quiet || git commit -m "chore: update GitHub profile stats"
 
           git push
